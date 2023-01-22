@@ -1,0 +1,8 @@
+This project was built for an assignment at The Hebrew University of Jerusalem School of Computer Science
+Some of the files included are part of provided course material for the assignment.
+It was written by Michal Kellner and Eitan Moed
+
+README
+Boggle Game Manager
+
+This program runs a boggle game according to the boggle_dict.txt provided
